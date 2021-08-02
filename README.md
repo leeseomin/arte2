@@ -57,11 +57,11 @@ bash main.sh
 
 ```
 
-###  Input image 
+###  Input images from 
 
-Recommended : classic art, Painting
+Recommended : 
 
-Not recommended : Image taken with a typical smartphone
+Not recommended : 
 
 
 ###  Results
