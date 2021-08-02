@@ -72,10 +72,10 @@ Not recommended : Image taken with a typical smartphone
 ### output image1
  <img src="https://github.com/leeseomin/arte2/blob/main/out2.png" width="1800">
 
-### input image1
+### input image2
  <img src="https://github.com/leeseomin/arte2/blob/main/s/seed0306.png" width="500">
  
-### output image1
+### output image2
  <img src="https://github.com/leeseomin/arte2/blob/main/306out.png" width="1900">
  
 ### make animated png result
