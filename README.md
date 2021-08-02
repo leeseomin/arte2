@@ -77,7 +77,7 @@ Not recommended : Image taken with a typical smartphone
  <img src="https://github.com/leeseomin/arte2/blob/main/s/seed0322.png" width="500">
 
 ### output image2
- <img src="https://github.com/leeseomin/arte2/blob/main/out2.png" width="1800">
+ <img src="https://github.com/leeseomin/arte2/blob/main/out2.png" width="2000">
 
 ### input image3
  <img src="https://github.com/leeseomin/arte2/blob/main/s/seed0306.png" width="500">
