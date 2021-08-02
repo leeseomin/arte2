@@ -67,7 +67,7 @@ Not recommended : Image taken with a typical smartphone
 ###  Results
 
 
- <img src="https://github.com/leeseomin/arte1/blob/main/degas.png" width="2500">
+ <img src="https://github.com/leeseomin/arte2/blob/main/out2.png" width="1800">
  
 ### make animated png result
 ```
